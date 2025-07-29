@@ -1,0 +1,44 @@
+{
+  "sdrs": [
+    {
+      "id": "1",
+      "name": "Ana Silva",
+      "metrics": {
+        "2025-07-29": {
+          "emTratativa": 15,
+          "agendamentos": 8,
+          "comparecimentos": 6,
+          "faltosos": 2,
+          "novosLeads": 12
+        }
+      }
+    },
+    {
+      "id": "2",
+      "name": "Carlos Santos",
+      "metrics": {
+        "2025-07-29": {
+          "emTratativa": 12,
+          "agendamentos": 5,
+          "comparecimentos": 4,
+          "faltosos": 1,
+          "novosLeads": 10
+        }
+      }
+    },
+    {
+      "id": "3",
+      "name": "Maria Oliveira",
+      "metrics": {
+        "2025-07-29": {
+          "emTratativa": 18,
+          "agendamentos": 10,
+          "comparecimentos": 8,
+          "faltosos": 2,
+          "novosLeads": 15
+        }
+      }
+    }
+  ],
+  "lastUpdated": "2025-07-29T21:25:41.823Z"
+}
